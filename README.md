@@ -43,3 +43,4 @@ expand your online presence, our website project offers a comprehensive solution
 3. Search for hotels, view details, and make reservations.
 
 ## Image
+1. ![alt text](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/1a820281-7b0c-43d8-9614-2e2288affb12)
