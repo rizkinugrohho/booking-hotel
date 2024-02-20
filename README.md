@@ -43,11 +43,15 @@ expand your online presence, our website project offers a comprehensive solution
 3. Search for hotels, view details, and make reservations.
 
 ## Demo
-1. ### Homepage
+
+### Homepage
 ![RNHotel-Home-ezgif com-optimize](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/e9e26a7f-b3a6-4658-9d89-573e417f40a4)
-2. ### Rooms
+
+### Rooms
 ![RN Hotel - Rooms](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/b036a01f-3ab0-4f1a-b34a-ee13eb549d9c)
-3. ### Contact Us
+
+### Contact Us
 ![RN Hotel - Conatact](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/0a20d086-9329-4aad-a7ae-9881f6be0fcd) 
-3. ### About
+
+### About
 ![RN Hotel - About](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/480e7513-a355-4ea6-9ded-c33d5e8576bd)
