@@ -1,0 +1,7 @@
+.pop{
+    transition: all 0.3s ease;
+}
+.pop:hover{
+    border-top-color: var(--teal) !important;
+    transform: scale(1.03);
+}

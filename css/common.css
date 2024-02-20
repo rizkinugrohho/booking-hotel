@@ -1,0 +1,38 @@
+:root{
+    --teal: #2ec1ac;
+    --teal-hover: #279e8c;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.new-font{
+    font-family: 'Merienda', cursive;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* Firefox */
+input[type=number]{
+    -moz-appearance: textfield;
+}
+.custom-bg{
+    background-color: var(--teal);
+    border: 1px solid var(--teal-hover);
+}
+.custom-bg:hover{
+    background-color: var(--teal-hover);
+    border: 1px solid var(--teal);
+}
+.custom-alert{
+    position: fixed;
+    top: 80px;
+    right: 25px;
+}
+.hor-line{
+    width: 150px;
+    height: 1.7px;
+    margin: 0 auto;
+}
