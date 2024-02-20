@@ -7,7 +7,7 @@ A hotel booking website where users can search for hotels, view details, and mak
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Use](#usage)
-- [Image](#image)
+- [Demo](#Demo)
 
 ## Introduction
 Welcome to our Hotel Booking Website Project! This project aims to create a user-friendly platform for booking hotel accommodations. Using a combination of HTML, CSS, JavaScript, AJAX, Bootstrap, PHP, and MySQL,
@@ -42,5 +42,12 @@ expand your online presence, our website project offers a comprehensive solution
 2. Sign up for a new account or log in with an existing account.
 3. Search for hotels, view details, and make reservations.
 
-## Image
-1. ![alt text](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/1a820281-7b0c-43d8-9614-2e2288affb12)
+## Demo
+1. ### Homepage
+![RNHotel-Home-ezgif com-optimize](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/e9e26a7f-b3a6-4658-9d89-573e417f40a4)
+2. ### Rooms
+![RN Hotel - Rooms](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/b036a01f-3ab0-4f1a-b34a-ee13eb549d9c)
+3. ### Contact Us
+![RN Hotel - Conatact](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/0a20d086-9329-4aad-a7ae-9881f6be0fcd) 
+3. ### About
+![RN Hotel - About](https://github.com/rizkinugrohho/booking-hotel/assets/36374356/480e7513-a355-4ea6-9ded-c33d5e8576bd)
